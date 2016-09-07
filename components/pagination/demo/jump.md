@@ -9,6 +9,6 @@ title: 跳转
 import { Pagination } from 'antd';
 
 ReactDOM.render(
-  <Pagination showQuickJumper defaultCurrent={2} total={500} />,
+  <Pagination showQuickJumper defaultCurrent={3} total={500} />,
  mountNode);
 ````
